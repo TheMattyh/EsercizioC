@@ -1,2 +1,2 @@
-# EsercizioC
+# EserciziC
 prove su C
